@@ -3,7 +3,7 @@
 @section('title', 'Dashboard')
 
 @section('content')
-    <h2>Selamat datang, Anda login sebagai pegawai</h2>
+    <h2>Selamat datang, Anda login sebagai pegawais</h2>
 
     <div class="container-fluid">
     <div class="my-5 row justify-content-left">
